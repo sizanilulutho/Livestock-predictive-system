@@ -1,0 +1,5 @@
+Train years: <= 2017
+Test years: >= 2018
+Test MAE: 0.273
+Test RMSE: 0.447
+Test R2: 1.000

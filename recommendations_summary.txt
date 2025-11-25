@@ -1,0 +1,33 @@
+Recommendations summary
+Source: resilient_species_filtered.csv + pasture_ranking_filtered.csv
+Weighting: productivity=0.60, resilience=0.40
+
+Top 3 per district:
+- South Africa: <bound method IndexOpsMixin.item of district                South Africa
+item                          Cattle
+pred_mean_recent            0.098296
+abs_slope                        0.0
+productivity_score               1.0
+resilience_score                 0.0
+composite_score                  0.6
+rank_within_district               1
+global_rank                        1
+Name: 0, dtype: object> (score=0.600), <bound method IndexOpsMixin.item of district                South Africa
+item                           Sheep
+pred_mean_recent            0.026184
+abs_slope                        0.0
+productivity_score          0.183293
+resilience_score            0.981441
+composite_score             0.502552
+rank_within_district               2
+global_rank                        2
+Name: 1, dtype: object> (score=0.503), <bound method IndexOpsMixin.item of district                South Africa
+item                           Goats
+pred_mean_recent                0.01
+abs_slope                        0.0
+productivity_score               0.0
+resilience_score                 1.0
+composite_score                  0.4
+rank_within_district               3
+global_rank                        3
+Name: 2, dtype: object> (score=0.400)

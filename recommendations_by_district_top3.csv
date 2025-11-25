@@ -1,0 +1,4 @@
+district,item,pred_mean_recent,abs_slope,productivity_score,resilience_score,composite_score,rank_within_district,global_rank
+South Africa,Cattle,0.0982960000000009,5.9334619427533965e-18,1.0,0.0,0.6,1,1
+South Africa,Sheep,0.0261839999999997,2.1622926968081504e-19,0.18329256138443076,0.981440654243302,0.5025517985279793,2,2
+South Africa,Goats,0.0099999999999998,1.0811463484040752e-19,0.0,1.0,0.4,3,3

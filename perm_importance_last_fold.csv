@@ -1,0 +1,11 @@
+feature,importance
+cat__item_Cattle,0.6367016116801235
+cat__item_Goats,0.017865034132210456
+cat__item_Sheep,0.0018915317489182405
+num__rh2m_ann,0.0005756770943677436
+num__prectotcorr_sum,-8.881784197001253e-17
+num__prectotcorr_ann,-8.881784197001253e-17
+cat__district_South Africa,-8.881784197001253e-17
+num__qv2m_ann,-0.00011537166990218672
+num__t2m_max_ann,-0.0004670097849081123
+num__t2m_range_ann,-0.0007854048842469097

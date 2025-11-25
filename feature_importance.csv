@@ -1,0 +1,15 @@
+feature,importance
+item_Cattle,0.5471368008489076
+element_Livestock units per agricultural land area,0.1665834034205032
+unit_LSU/ha,0.1516379904525495
+unit_%LSU,0.057559310017865926
+element_Share in total livestock,0.05099903317749443
+item_Sheep,0.015631561714324085
+item_Goats,0.01002212705924924
+t2m_max_ann,0.00013104584447573564
+prectotcorr_sum,0.00012277336557631874
+prectotcorr_ann,8.301476061245812e-05
+qv2m_ann,3.639969347210589e-05
+t2m_range_ann,3.094707858151587e-05
+rh2m_ann,2.5592566387738937e-05
+district_South Africa,0.0

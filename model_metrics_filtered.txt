@@ -1,0 +1,10 @@
+Leakage-minimized climate model
+Train years: <= 2017
+Test years: >= 2018
+Test MAE: 0.005
+Test RMSE: 0.007
+Test R^2: 0.965
+
+Chosen (element, unit) pair:
+                                   element   unit
+Livestock units per agricultural land area LSU/ha
