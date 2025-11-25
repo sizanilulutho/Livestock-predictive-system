@@ -5,7 +5,7 @@ import pandas as pd
 import joblib
 import streamlit as st
 
-MODEL_PATH = pathlib.Path("data/processed/model_filtered.joblib")
+MODEL_PATH = pathlib.Path("model_filtered.joblib")
 
 REQUIRED_COLUMNS = [
     "year", "item", "district",
@@ -85,3 +85,4 @@ if submitted:
             st.success(f"Predicted LSU/ha: {pred:.3f}")
         except Exception as e:
             st.error(f"Prediction failed. Details: {e}")
+
